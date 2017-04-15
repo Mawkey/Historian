@@ -1,0 +1,6 @@
+G:\Programs\Visual Studio 2015 Projects\Historian\Engine\bin\Debug\Engine.dll
+G:\Programs\Visual Studio 2015 Projects\Historian\Engine\bin\Debug\Engine.pdb
+G:\Programs\Visual Studio 2015 Projects\Historian\Engine\obj\Debug\Engine.csprojResolveAssemblyReference.cache
+G:\Programs\Visual Studio 2015 Projects\Historian\Engine\obj\Debug\Engine.dll
+G:\Programs\Visual Studio 2015 Projects\Historian\Engine\obj\Debug\Engine.pdb
+G:\Programs\Visual Studio 2015 Projects\Historian\Engine\bin\Debug\Engine.dll.config
